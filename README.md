@@ -24,3 +24,9 @@ Please ZIP up the flutter project, attach it to an email, and send it to brandon
 ## Time Constraints
 
 This test is designed to take between 1-4 hours
+
+## Design example
+
+Use this image as a guide when developing the UI. Pay special attention to the border of the message bubbles..
+
+![UIExample](https://github.com/aurelius-health/lived-flutter-test/blob/master/assets/UIExample.png?raw=true)
