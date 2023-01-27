@@ -2,6 +2,10 @@
 
 In this Flutter case study you will be creating a basic chat feature where you can send messages to yourself 😅. You will be starting with an empty/fresh Flutter project and implementing the requirements listed.
 
+## Submitting project for review
+
+Please ZIP up the flutter project, attach it to an email, and send it to brandon@lived.app and kane@lived.app
+
 ## Basic Requirements
 - A chat page with the following:
     - Textfield at the bottom of the screen for inputting and sending a new message.
